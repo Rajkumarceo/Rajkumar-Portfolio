@@ -1,0 +1,16 @@
+{
+  "name": "Titanobova Portfolio",
+  "short_name": "Titanobova",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "description": "A premium Liquid Glass portfolio for Titanobova Private Limited.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "120x120",
+      "type": "image/svg+xml"
+    }
+  ]
+}
